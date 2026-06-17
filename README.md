@@ -1,8 +1,9 @@
-# Aerolink Basecamp: Tactical Disaster Response Portal
+# Aerolink Basecamp
+### *Tactical Command & Control (C2) Portal for Mission-Critical Disaster Response*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-4.3.0-orange.svg)]()
-[![Stack](https://img.shields.io/badge/Stack-Next.js%2016%20|%20LoRa%20|%20Gemini%202.5-blue.svg)]()
+`Version 4.3.0` · `Next.js 16 (App Router)` · `LoRa Mesh` · `Gemini 2.5 Flash` · `MIT License`
+
+---
 
 ## 🛰 Overview
 **Aerolink Basecamp** is an industry-grade, tactical Command & Control (C2) platform designed for mission-critical disaster management. It bridges the gap between field-level fragmented signals and high-level medical/rescue coordination through a combination of **LoRa mesh networking**, **Generative AI reconstruction**, and **GIS situational mapping**.
